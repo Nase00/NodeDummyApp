@@ -9,6 +9,6 @@
       <a href="/">Index</a>
       <a href="/posts">Posts</a>
     </header>
-    {{ body }}
+    {{{ body }}}
   </body>
 </html>
