@@ -5,7 +5,7 @@ var router = express.Router();
 router.get('/', function(req, res, next) {
   res.render('index', {
   	title: 'Atomic7',
-  	subtitle: 'A dummy blog in Node.js'
+  	subtitle: 'A dummy RESTful blog with Express.js and Node.js'
   });
 });
 

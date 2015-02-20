@@ -9,6 +9,7 @@ var partials = require('express-partials')
 
 var routes = require('./routes/index');
 var posts = require('./routes/posts')
+// var postsShow = require('./routes/posts/show')
 // var users = require('./routes/users');
 
 var app = express();
